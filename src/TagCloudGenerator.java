@@ -1,7 +1,12 @@
-/*
- *  Created by Kee Sern on 3/24/16.
- *  Copyright © 2016 Kee Sern. All rights reserved.
-*/
+/**
+ * Creates a html file that generates a Tag Cloud containing given amount of
+ * words
+ *
+ * @author Chua Kee Sern
+ * @author Nie Chen Feng
+ * @author Zou Yu Peng
+ *
+ */
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -16,15 +21,6 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * Creates a html file that generates a Tag Cloud containing given amount of
- * words
- *
- * @author Chua Kee Sern
- * @author Nie Chen Feng
- * @author Zou Yu Peng
- *
- */
 
 public final class TagCloudGenerator {
 
