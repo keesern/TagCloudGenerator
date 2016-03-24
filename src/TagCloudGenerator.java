@@ -1,3 +1,8 @@
+/*
+ *  Created by Kee Sern on 3/24/16.
+ *  Copyright © 2016 Kee Sern. All rights reserved.
+*/
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
